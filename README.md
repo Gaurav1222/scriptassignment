@@ -1,0 +1,2 @@
+# scriptassignment
+Typescript assignment
